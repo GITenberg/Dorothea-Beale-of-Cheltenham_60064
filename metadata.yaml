@@ -1,0 +1,25 @@
+_repo: Dorothea-Beale-of-Cheltenham_60064
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Raikes, Elizabeth
+    gutenberg_agent_id: '50769'
+    url: http://www.gutenberg.org/2009/agents/50769
+description: ''
+gutenberg_issued: '2019-08-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60064'
+  lccn: '84165844'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cheltenham Ladies'' College -- History'
+- !lcsh 'Beale, Dorothea, 1831-1906'
+- !lcc 'LF'
+- !lcsh 'Teachers -- England -- Biography'
+- GITenberg
+title: Dorothea Beale of Cheltenham
+url: http://www.gutenberg.org/ebooks/60064
